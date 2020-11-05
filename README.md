@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" align="center">Hi, I am Hisyam ardiansyah 👨‍💻
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
- 
+ I am a Web Dev enthusiast and Python Developer. I am passionate about technologies and love to learn new things.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
