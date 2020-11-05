@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hisyamardiansyah&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
+  <img align="right" width="490" height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
   </a>
 <p>
   
