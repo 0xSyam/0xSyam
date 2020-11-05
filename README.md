@@ -15,11 +15,12 @@
 * 🦁 I use [Brave Browser](https://brave.com/eyl243) for ad-free and tracker-free browsing
 -->
 ## 📫 Get in touch
-- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/adnanazmee)
-- Twitter - [@AzmeeAdnan](https://twitter.com/AzmeeAdnan)
-- Reddit - [adnanazmee](https://reddit.com/user/adnanazmee)
+- Facebook - [Hisyam Ardiansyah](https://www.facebook.com/wilsen.orochi.9)
+- Twitter - [@hysmardiansyah_
+](https://twitter.com/hysmardiansyah_)
+- Instagram - [hisyam.ardiansyah_](https://www.instagram.com/hisyam.ardiansyah_/)
 
- or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
+ or give some ♥ on [mail](mailto:nadsyah4@gmail.com) .
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
