@@ -6,9 +6,9 @@
  
 ## 📖 About me
 
-* 💻 I'm a learn full stack web developer
+* 💻 I'm learn full stack web developer
 * 🎨 I'm a self-taught UI/UX designer
-* 📱 I learn t omake apps for Android
+* 📱 I learn to make apps for Android
 * 🎓 I'm a High School Student
 * 🌐 You can see my some of my projects on [my portfolio](https://freshidea.com/jonah/)
 
