@@ -1,5 +1,6 @@
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" align="center">Hi, I am Hisyam ardiansyah 👨‍💻
+
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Hisyam ardiansyah 👨‍💻
  
 Here are some ideas to get you started:
 
