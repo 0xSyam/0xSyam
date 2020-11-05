@@ -14,6 +14,12 @@
 * 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
 * 🦁 I use [Brave Browser](https://brave.com/eyl243) for ad-free and tracker-free browsing
 -->
+## 📫 Get in touch
+- LinkedIn - [Adnan Azmee](https://in.linkedin.com/in/adnanazmee)
+- Twitter - [@AzmeeAdnan](https://twitter.com/AzmeeAdnan)
+- Reddit - [adnanazmee](https://reddit.com/user/adnanazmee)
+
+ or give some ♥ on [mail](mailto:adnanazmee@gmail.com) .
 <details>
   <summary>Some other achievements about me~e~e</summary>
   <br>
