@@ -1,27 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" align="center">Hi, I am Hisyam Ardiansyah 👨‍💻
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
- I am a Web Dev enthusiast and. I am passionate about technologies and love to learn new things.
- #### 🔭 I’m currently looking for new opportunities .
- 
-## 📖 About me
 
-* 💻 I'm learn full stack web developer
-* 🎨 I'm a self-taught UI/UX designer
-* 📱 I learn to make apps for Android
-* 🎓 I'm a High School Student
-* 🌐 You can see my some of my projects on [my portfolio](https://github.com/hisyamardiansyah/)
-
-## 📫 Get in touch
-- Facebook - [Hisyam Ardiansyah](https://www.facebook.com/wilsen.orochi.9)
-- Twitter - [@hysmardiansyah_
-](https://twitter.com/hysmardiansyah_)
-- Instagram - [hisyam.ardiansyah_](https://www.instagram.com/hisyam.ardiansyah_/)
-
- or give some ♥ on [mail](mailto:nadsyah4@gmail.com) .
-<details>
-  <summary>Some other achievements about me~e~e</summary>
-  <br>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyamardiansyah&hide_langs_below=1&theme=radical&line_height=27&layout=compact" />
