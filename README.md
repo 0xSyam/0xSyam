@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" align="center">Hi, I am Hisyam Ardiansyah 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="12px" align="center">Hi, I am Hisyam Ardiansyah 👨‍💻
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
