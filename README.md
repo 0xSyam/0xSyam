@@ -19,10 +19,9 @@ Hi, I am Hisyam Ardiansyah 👨‍💻
 <h2></h2><br>
 <p align="center">
   <samp>
-    [<a href="https://twitter.com/fzn0x" target="_blank">twitter</a>]
-    [<a href="https://t.me/fzn0x" target="_blank">telegram</a>]
-    [<a href="https://www.linkedin.com/in/fzn0x/" target="_blank">linkedin</a>]
-    [<a href="mailto:fzn0x@pm.me" target="_blank">mail</a>]
+    [<a href="https://twitter.com/Syam0x" target="_blank">twitter</a>]
+    [<a href="https://t.me/oxsyam" target="_blank">telegram</a>]
+    [<a href="mailto:0xSyam@pm.me" target="_blank">mail</a>]
   </samp>
 </p>
 
