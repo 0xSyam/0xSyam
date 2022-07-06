@@ -28,15 +28,15 @@ Hi, I am Hisyam Ardiansyah 👨‍💻
 <h2></h2><br>
 
 ```sh
-curl -s https://github.com/fzn0x.gpg | gpg --import
+curl -s https://github.com/0xSyam.gpg | gpg --import
 ```
 
 ```sh
-curl https://github.com/fzn0x.keys | tee -a ~/.ssh/authorized_keys
+curl https://github.com/0xSyam.keys | tee -a ~/.ssh/authorized_keys
 ```
 
 ```sh
-curl -i https://api.github.com/users/fzn0x/keys
+curl -i https://api.github.com/users/0xSyam/keys
 ```
 
 </details>
