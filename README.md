@@ -47,7 +47,8 @@ curl -i https://api.github.com/users/0xSyam/keys
 </p>
 
 </details>
-  
+
+<p> 
 <hr>
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
