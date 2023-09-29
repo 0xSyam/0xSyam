@@ -5,8 +5,7 @@ Hi, I am Hisyam Ardiansyah 👨‍💻
 <p align="left"><b><samp>「</samp></b></p>
   <p align="center">
     <samp>
-      An algorithm without a proof<br>
-      is a conjecture, it's not a theorem.<br>
+      <br>
     </samp>
   </p>
 <p align="right"><b><samp>」</samp></b></p>
